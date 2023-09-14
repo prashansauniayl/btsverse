@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655279409854",
+    "project_id": "btsverse-4ffee",
+    "storage_bucket": "btsverse-4ffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655279409854:android:d01ea284ae99e099fb2cef",
+        "android_client_info": {
+          "package_name": "co.pepbrew.btsverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655279409854-4ohg8ci15c6t6d62q58nkgj398k307ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCGcXjENE8g8jJ41gk1VqFAycimfJ0ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655279409854-4ohg8ci15c6t6d62q58nkgj398k307ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
